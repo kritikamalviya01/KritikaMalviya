@@ -1,5 +1,7 @@
 # Kritika Malviya
 
+[![](https://visitcount.itsvg.in/api?id=kritikamalviya01&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌟 About Me
 I'm an experienced and passionate software developer with expertise in Java 8 Spring Boot development for digital banking, particularly in the payment domain core transaction. My focus lies in designing and building robust microservices architectures that are both scalable and efficient.
 
@@ -28,6 +30,7 @@ When I’m not coding, you’ll find me:
 
 
 # 📊 GitHub Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritikamalviya01&theme=dark&hide_border=false" alt="kritikamalviya01" /></a> </p>
 ![](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -36,4 +39,4 @@ When I’m not coding, you’ll find me:
 ![](https://github-contributor-stats.vercel.app/api?username=kritikamalviya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kritikamalviya01&icon=0&color=0)](https://visitcount.itsvg.in)
+
