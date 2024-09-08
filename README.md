@@ -23,6 +23,8 @@ When I’m not coding, you’ll find me:
 - **End-to-End Development**: From concept to deployment using cutting-edge tools and technologies.
 - **Agile & DevOps Approach**: Ensuring continuous integration, delivery, and feedback for superior project outcomes.
 
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MalviyaKritika1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kritikamalviya01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritika-malviya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21192975/kritika-malviya) 
 
 
 # 📊 GitHub Stats:
