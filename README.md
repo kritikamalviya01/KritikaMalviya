@@ -30,7 +30,7 @@ When I’m not coding, you’ll find me:
 
 
 # 📊 GitHub Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritikamalviya01" alt="kritikamalviya01" /></a> </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
