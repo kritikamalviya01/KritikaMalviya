@@ -36,7 +36,15 @@ When I’m not coding, you’ll find me:
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@kritikamalviya01)
 
 
+<br>
+
 ## 📊 GitHub Stats:
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kritikamalviya01&row=2&rank=S,SSS,SS,AAA,AA,A,B,SECRET&margin-w=15&margin-h=15&theme=darkhub" alt="kritikamalviya" />
+  </a> 
+</p>
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false) |
 | --- | --- |
