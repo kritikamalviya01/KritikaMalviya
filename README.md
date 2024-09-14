@@ -33,16 +33,15 @@ When I’m not coding, you’ll find me:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21192975/kritika-malviya)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/kritika.m11)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kritika.malviya.1)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@kritikamalviya01)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kritikamalviya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kritikamalviya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
 
 ---
+
 
