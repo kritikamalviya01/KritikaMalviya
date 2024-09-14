@@ -46,9 +46,9 @@ When I’m not coding, you’ll find me:
   </a> 
 </p>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&theme=dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikamalviya01&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritikamalviya01&hide_border=false) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kritikamalviya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamalviya01&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kritikamalviya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
 
 ---
 
